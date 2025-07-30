@@ -1,1 +1,4 @@
-Dataset information-
+Dataset information- Books Dataset(Books read by users and ratings provided by them on Amazon)
+Link: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
+
+
